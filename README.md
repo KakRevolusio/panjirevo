@@ -1,7 +1,7 @@
 # panjirevo
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Panji Revolusioner Saputro**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
